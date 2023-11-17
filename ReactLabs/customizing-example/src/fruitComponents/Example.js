@@ -1,0 +1,1 @@
+<Example children={<Hello message="Hello there" />} />
